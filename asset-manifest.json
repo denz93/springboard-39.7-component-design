@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/springboard-39.7-component-design/static/css/main.3c07a7ef.css",
-    "main.js": "/springboard-39.7-component-design/static/js/main.89ae4162.js",
+    "main.js": "/springboard-39.7-component-design/static/js/main.9d2a582d.js",
     "static/js/27.82a2c194.chunk.js": "/springboard-39.7-component-design/static/js/27.82a2c194.chunk.js",
     "index.html": "/springboard-39.7-component-design/index.html",
     "main.3c07a7ef.css.map": "/springboard-39.7-component-design/static/css/main.3c07a7ef.css.map",
-    "main.89ae4162.js.map": "/springboard-39.7-component-design/static/js/main.89ae4162.js.map",
+    "main.9d2a582d.js.map": "/springboard-39.7-component-design/static/js/main.9d2a582d.js.map",
     "27.82a2c194.chunk.js.map": "/springboard-39.7-component-design/static/js/27.82a2c194.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c07a7ef.css",
-    "static/js/main.89ae4162.js"
+    "static/js/main.9d2a582d.js"
   ]
 }
