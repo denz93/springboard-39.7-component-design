@@ -1,10 +1,18 @@
 .Cell {
+  vertical-align: middle;
   height: 100px;
   width: 100px;
-  background-color: darkgray;
+  /* background-color: darkgray; */
   cursor: pointer;
+  border: 1px dashed black;
+}
+.Cell:hover {
+  background-color: aliceblue;
+  ;
 }
 
-.Cell-lit {
-  background-color: white;
+.Cell:hover img {
+  transition: scale 0.2s ease-in-out;
+  scale: 1.2;
 }
+

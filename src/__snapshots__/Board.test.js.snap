@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match playing screen snapshop 1`] = `
+<DocumentFragment>
+  <table
+    class="board"
+  >
+    <tbody>
+      <tr
+        class="row"
+      >
+        <td
+          class="Cell Cell-lit"
+        >
+          <img
+            alt="light on"
+            height="64"
+            src="light-on.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <img
+            alt="light on"
+            height="64"
+            src="light-on.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell Cell-lit"
+        >
+          <img
+            alt="light on"
+            height="64"
+            src="light-on.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+        <td
+          class="Cell "
+        >
+          <img
+            alt="light off"
+            height="64"
+            src="light-off.png"
+            width="64"
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`should match won screen snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Board-title"
+  >
+    You Won
+  </div>
+</DocumentFragment>
+`;

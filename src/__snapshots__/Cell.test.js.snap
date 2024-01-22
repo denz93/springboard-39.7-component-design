@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match lit snapshot 1`] = `
+<DocumentFragment>
+  <img
+    alt="light on"
+    height="64"
+    src="light-on.png"
+    width="64"
+  />
+</DocumentFragment>
+`;
+
+exports[`should match unlit snapshot 1`] = `
+<DocumentFragment>
+  <img
+    alt="light off"
+    height="64"
+    src="light-off.png"
+    width="64"
+  />
+</DocumentFragment>
+`;

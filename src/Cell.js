@@ -1,5 +1,7 @@
 import React from "react";
 import "./Cell.css";
+import lightOn from './light-on.png';
+import lightOff from './light-off.png';
 
 /** A single cell on the board.
  *
@@ -16,7 +18,10 @@ import "./Cell.css";
 
 function Cell({ flipCellsAroundMe, isLit }) {
   const classes = `Cell ${isLit ? "Cell-lit" : ""}`;
-  return <td className={classes} onClick={flipCellsAroundMe} />;
+
+  return <td className={classes} onClick={flipCellsAroundMe} >
+    <img src={isLit ? lightOn : lightOff} alt={isLit ? "light on" : "light off"} width={64} height={64}/>
+  </td>;
 }
 
 export default Cell;

@@ -1,3 +1,8 @@
 .Board {
   margin: 0 auto;
 }
+
+.Board-title {
+  font-size: 3em;
+  padding: 1em 0;
+}
